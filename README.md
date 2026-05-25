@@ -1,6 +1,3 @@
-# 🚀 Modern GitHub Profile README for Subh Kumar Mishra
-
-```md
 <div align="center">
 
 # Hi 👋, I'm Subh Kumar Mishra
@@ -116,33 +113,3 @@
 # 🔥 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhmishrasketch&theme=tokyo-night&hide_border=true" width="100%" />
-
-```
-
----
-
-# How To Use
-
-1. Create a new repository named:
-
-```text
-subhmishrasketch
-```
-
-2. Make it Public.
-
-3. Add a README.md file.
-
-4. Copy the full markdown code above into README.md.
-
-5. Commit changes.
-
-Your GitHub profile will become modern and professional with:
-
-* Animated typing effect
-* Tech stack icons
-* GitHub stats
-* Contribution graph
-* Project showcase
-* Futuristic design
-* Professional developer look
