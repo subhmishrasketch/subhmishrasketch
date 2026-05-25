@@ -51,12 +51,12 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/subhmishrasketch/codemate-ai-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhmishrasketch&repo=codemate-ai-platform&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/subhmishrasketch/Team_Legion-Subh_Kumar_Mishra-CodeMate_X">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhmishrasketch&repo=Team_Legion-Subh_Kumar_Mishra-CodeMate_X&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/subhmishrasketch/greenroute-navigation-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhmishrasketch&repo=greenroute-navigation-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/subhmishrasketch/GreenRoute_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhmishrasketch&repo=GreenRoute_1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
